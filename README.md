@@ -4,7 +4,7 @@ Here’s a well-structured `README.md` file for your GitHub repository to showca
 # Face Detection and Blurring in Python  
 Protect privacy by detecting and blurring faces in **images**, **videos**, and **live webcam feeds** using Python! 🚀  
 
-![Demo](https://via.placeholder.com/thumb.jpg?text=Insert+Project+GIF+or+Screenshot+Here)  
+![Demo](/thumb.jpg)  
 
 ## 📜 Overview  
 This project combines the power of **MediaPipe** for face detection and **OpenCV** for real-time image processing. With a few lines of code, you can:  
@@ -84,14 +84,14 @@ python face_blur.py --mode webcam
 
 ## 📷 Demo  
 
-**Webcam Mode**:  
-![Webcam Demo](https://via.placeholder.com/400x200.png?text=Insert+GIF+or+Screenshot+Here)  
+**Simple Camera**:  
+![Webcam Demo](simple.jpg)  
 
-**Image Mode**:  
-![Image Demo](https://via.placeholder.com/400x200.png?text=Insert+GIF+or+Screenshot+Here)  
+**Detect Face**:  
+![Detect Demo](/detect.jpg)  
 
-**Video Mode**:  
-![Video Demo](https://via.placeholder.com/thumb.jpg?text=Insert+GIF+or+Screenshot+Here)  
+**Blur Face**:  
+![Blur Demo](/blur.jpg)  
 
 ---
 
@@ -107,14 +107,12 @@ Contributions are welcome! 🎉
 ---
 
 ## 🧑‍💻 Author  
-**Minahil Javed**  
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  
-- [GitHub](https://github.com/YourUsername)  
 
----
+**Ahmad Sabir**  
+- [LinkedIn](https://www.linkedin.com/in/ahmadsabir786)  
+- [GitHub](https://github.com/ahmadsabir786)  
+ 
 
-## 📜 License  
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
 
 ---
 
