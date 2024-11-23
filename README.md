@@ -109,7 +109,7 @@ Contributions are welcome! 🎉
 ## 🧑‍💻 Author  
 
 **Ahmad Sabir**  
-- [LinkedIn](https://www.linkedin.com/in/ahmadsabir786)  
+- [LinkedIn](https://www.linkedin.com/in/ahmad-sabir-analyst/)  
 - [GitHub](https://github.com/ahmadsabir786)  
  
 
